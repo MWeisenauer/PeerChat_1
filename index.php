@@ -12,7 +12,7 @@
     $ftp_host = "timetec001.no-ip.info";
     $ftp_port = 42156;
     $ftp_user = "Markus";
-    $ftp_pass = "!Adenauer1!";
+    $ftp_pass = "xyz";
     $ftp_path = "/";
     $priv_key_file = "private.pem";
 
