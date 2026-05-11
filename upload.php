@@ -3,7 +3,7 @@
 $ftp_host = "timetec001.no-ip.info";
 $ftp_port = 42156;
 $ftp_user = "Markus";
-$ftp_pass = "!Adenauer1!";
+$ftp_pass = "xyz";
 $ftp_path = "/";
 $pub_key_file = "public.pem";
 $priv_key_file = "private.pem";
